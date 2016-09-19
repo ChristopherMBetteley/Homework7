@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework7\Homework7\bin\Debug\Homework7.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework7\Homework7\bin\Debug\Homework7.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework7\Homework7\bin\Debug\Homework7.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework7\Homework7\obj\Debug\Homework7.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework7\Homework7\obj\Debug\Homework7.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework7\Homework7\obj\Debug\Homework7.pdb
